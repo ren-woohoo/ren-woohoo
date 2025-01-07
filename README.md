@@ -16,5 +16,5 @@ Here are some ideas to get you started:
 
 ### Keep Learning, Keep Hacking
 
-- 🌍 "Passionate about coding, shaping the world with every line."
-- 🎯 "Code like life—embrace challenges, write the next possibility."
+- 🌍 Passionate about coding, shaping the world with every line.
+- 🎯 Code like life—embrace challenges, write the next possibility.
